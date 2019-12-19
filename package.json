@@ -1,0 +1,11 @@
+{
+  "name": "futura-api",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "serve": "(cd src && firebase serve)"
+  },
+  "repository": "https://github.com/Futura-Campus-Mobile/futura-api",
+  "author": "Lucas Lima <llbarbosasc@gmail.com>",
+  "license": "MIT"
+}
